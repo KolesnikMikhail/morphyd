@@ -8,7 +8,7 @@ email: kolesnik.mikhail@gmail.com
 The program morphyd simulates the nucleation and growth of hydrides in zirconium alloys during cooling of a specimen in 3D representation.
 The result of the simulation allows estimating any metric of hydrides' morphology and thus predict the hydrogen embrittlement degree.
 
-Call up TestScenario.m to start the simulation.
+Call up TestScenario.m to start the simulation and postprocessing.
 This file contains the history of temperature, geometry of the specimen, parameters of nucleation sites (density, spatial and defect energy distribution),
 main control flow and the basic postprocessing.
 
