@@ -2,7 +2,7 @@
 MORPHology of HYDrides (morhpyd)
 
 Authors: Teimur Aliev and Mikhail Kolesnik;
-         Lebedev Physical Institute of the Russian Academy of Science, Moscow, Russia
+         Lebedev Physical Institute of the Russian Academy of Science, Moscow, Russia;
 email: kolesnik.mikhail@gmail.com
 
 The program morphyd simulates the nucleation and growth of hydrides in zirconium alloys during cooling of a specimen in 3D representation.
