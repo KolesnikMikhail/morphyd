@@ -1,7 +1,7 @@
 # morphyd
 MORPHology of HYDrides (morhpyd)
 
-Authors: Teimur Aliev and Mikhail Kolesnik
+Authors: Teimur Aliev and Mikhail Kolesnik;
          Lebedev Physical Institute of the Russian Academy of Science, Moscow, Russia
 email: kolesnik.mikhail@gmail.com
 
